@@ -1,6 +1,7 @@
 # Teste
 
 Desafios: hora da prática
+
 1 - Crie uma função que valide se um número é positivo, negativo ou zero.
 
 function validarNumero(numero) {
